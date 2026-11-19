@@ -1,0 +1,8 @@
+This is my very first machine learning model to predict the survival rate of the passengers of titanic.
+I've implemened very basic teachniques. I followed the following process:
+1. Data cleaning
+    - Filled each missing age with median of it's pclass
+    - handled the missing values
+
+2. Explanatory Data Analysis
+    -
